@@ -89,6 +89,8 @@ unlinked_spec.ds
 **/ios/.generated/
 **/ios/Flutter/.last_build_id
 **/ios/Flutter/App.framework
+**/ios/Flutter/AppFrameworkInfo.plist
+**/ios/Flutter/Debug.xcconfig
 **/ios/Flutter/Flutter.framework
 **/ios/Flutter/Flutter.podspec
 **/ios/Flutter/Generated.xcconfig
