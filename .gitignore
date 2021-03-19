@@ -90,7 +90,7 @@ unlinked_spec.ds
 **/ios/Flutter/.last_build_id
 **/ios/Flutter/App.framework
 **/ios/Flutter/AppFrameworkInfo.plist
-**/iso
+**/iso/
 **/ios/Flutter/Debug.xcconfig
 **/ios/Flutter/Flutter.framework
 **/ios/Flutter/Flutter.podspec
